@@ -3,6 +3,7 @@ v1
 v2
 v3
 v5
+<<<<<<< HEAD
 c6adf
 adf
 
@@ -10,3 +11,6 @@ another branch
 =======
 v1
 >>>>>>> parent of 8629a6a... v2
+=======
+c6
+>>>>>>> parent of ef0c838... Update test.txt
