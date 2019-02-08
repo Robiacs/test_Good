@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 v1
 v2
 v3
@@ -6,3 +7,6 @@ c6adf
 adf
 
 another branch
+=======
+v1
+>>>>>>> parent of 8629a6a... v2
